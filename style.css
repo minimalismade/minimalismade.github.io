@@ -1,0 +1,11 @@
+html,body{
+    height: 100%;
+    background: #f6f6f6;
+}
+.full-page{
+    flex:1;
+    min-height:100%;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
